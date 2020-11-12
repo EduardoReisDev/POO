@@ -1,0 +1,15 @@
+/Users/eduardoreis/Documents/POO/01Conceitos/bin/Debug/net5.0/01Conceitos.deps.json
+/Users/eduardoreis/Documents/POO/01Conceitos/bin/Debug/net5.0/01Conceitos.runtimeconfig.json
+/Users/eduardoreis/Documents/POO/01Conceitos/bin/Debug/net5.0/01Conceitos.runtimeconfig.dev.json
+/Users/eduardoreis/Documents/POO/01Conceitos/bin/Debug/net5.0/01Conceitos.dll
+/Users/eduardoreis/Documents/POO/01Conceitos/bin/Debug/net5.0/ref/01Conceitos.dll
+/Users/eduardoreis/Documents/POO/01Conceitos/bin/Debug/net5.0/01Conceitos.pdb
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.csprojAssemblyReference.cache
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.AssemblyInfoInputs.cache
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.AssemblyInfo.cs
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.dll
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/ref/01Conceitos.dll
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.pdb
+/Users/eduardoreis/Documents/POO/01Conceitos/obj/Debug/net5.0/01Conceitos.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/13Abstracao/bin/Debug/13Abstracao.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/13Abstracao/bin/Debug/13Abstracao.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/13Abstracao/obj/anycpu/Debug/13Abstracao.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/13Abstracao/obj/anycpu/Debug/13Abstracao.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/13Abstracao/obj/anycpu/Debug/13Abstracao.pdb

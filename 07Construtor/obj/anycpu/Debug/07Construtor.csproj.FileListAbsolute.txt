@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/07Construtor/bin/Debug/07Construtor.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/07Construtor/bin/Debug/07Construtor.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/07Construtor/obj/anycpu/Debug/07Construtor.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/07Construtor/obj/anycpu/Debug/07Construtor.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/07Construtor/obj/anycpu/Debug/07Construtor.pdb

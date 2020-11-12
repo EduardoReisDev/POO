@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/14Interface/bin/Debug/14Interface.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/14Interface/bin/Debug/14Interface.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/14Interface/obj/anycpu/Debug/14Interface.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/14Interface/obj/anycpu/Debug/14Interface.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/14Interface/obj/anycpu/Debug/14Interface.pdb

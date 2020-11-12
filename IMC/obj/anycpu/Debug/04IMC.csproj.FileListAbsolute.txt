@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/IMC/bin/Debug/IMC.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/IMC/bin/Debug/IMC.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/IMC/obj/anycpu/Debug/04IMC.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/IMC/obj/anycpu/Debug/IMC.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/IMC/obj/anycpu/Debug/IMC.pdb

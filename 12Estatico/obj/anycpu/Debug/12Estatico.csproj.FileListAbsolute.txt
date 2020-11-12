@@ -1,0 +1,6 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/12Estatico/bin/Debug/12Estatico.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/12Estatico/bin/Debug/12Estatico.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/12Estatico/obj/anycpu/Debug/12Estatico.csprojAssemblyReference.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/12Estatico/obj/anycpu/Debug/12Estatico.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/12Estatico/obj/anycpu/Debug/12Estatico.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/12Estatico/obj/anycpu/Debug/12Estatico.pdb

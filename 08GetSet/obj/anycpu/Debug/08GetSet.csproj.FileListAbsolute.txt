@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/08GetSet/bin/Debug/08GetSet.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/08GetSet/bin/Debug/08GetSet.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/08GetSet/obj/anycpu/Debug/08GetSet.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/08GetSet/obj/anycpu/Debug/08GetSet.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/08GetSet/obj/anycpu/Debug/08GetSet.pdb

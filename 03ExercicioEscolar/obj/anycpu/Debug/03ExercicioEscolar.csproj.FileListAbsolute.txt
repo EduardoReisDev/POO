@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/03ExercicioEscolar/bin/Debug/03ExercicioEscolar.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/03ExercicioEscolar/bin/Debug/03ExercicioEscolar.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/03ExercicioEscolar/obj/anycpu/Debug/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/03ExercicioEscolar/obj/anycpu/Debug/03ExercicioEscolar.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/03ExercicioEscolar/obj/anycpu/Debug/03ExercicioEscolar.pdb

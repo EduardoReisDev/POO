@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/02Metodos/bin/Debug/02Metodos.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/02Metodos/bin/Debug/02Metodos.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/02Metodos/obj/anycpu/Debug/02Metodos.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/02Metodos/obj/anycpu/Debug/02Metodos.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/02Metodos/obj/anycpu/Debug/02Metodos.pdb

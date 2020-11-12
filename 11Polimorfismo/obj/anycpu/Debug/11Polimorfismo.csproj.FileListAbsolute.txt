@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/11Polimorfismo/bin/Debug/11Polimorfismo.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/11Polimorfismo/bin/Debug/11Polimorfismo.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/11Polimorfismo/obj/anycpu/Debug/11Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/11Polimorfismo/obj/anycpu/Debug/11Polimorfismo.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/11Polimorfismo/obj/anycpu/Debug/11Polimorfismo.pdb

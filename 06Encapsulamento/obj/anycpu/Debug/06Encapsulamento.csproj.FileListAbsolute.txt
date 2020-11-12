@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/06Encapsulamento/bin/Debug/06Encapsulamento.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/06Encapsulamento/bin/Debug/06Encapsulamento.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/06Encapsulamento/obj/anycpu/Debug/06Encapsulamento.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/06Encapsulamento/obj/anycpu/Debug/06Encapsulamento.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/06Encapsulamento/obj/anycpu/Debug/06Encapsulamento.pdb

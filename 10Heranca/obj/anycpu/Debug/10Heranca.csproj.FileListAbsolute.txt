@@ -1,0 +1,5 @@
+/Users/eduardoreis/Projects/orientacao_a_objetos/10Heranca/bin/Debug/10Heranca.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/10Heranca/bin/Debug/10Heranca.pdb
+/Users/eduardoreis/Projects/orientacao_a_objetos/10Heranca/obj/anycpu/Debug/10Heranca.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/orientacao_a_objetos/10Heranca/obj/anycpu/Debug/10Heranca.exe
+/Users/eduardoreis/Projects/orientacao_a_objetos/10Heranca/obj/anycpu/Debug/10Heranca.pdb
